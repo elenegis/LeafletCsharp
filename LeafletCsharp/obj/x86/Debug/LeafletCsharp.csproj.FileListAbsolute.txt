@@ -1,0 +1,35 @@
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\LeafletCsharp\bin\Debug\LeafletCsharp.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\LeafletCsharp\bin\Debug\LeafletCsharp.pdb
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\LeafletCsharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\LeafletCsharp\obj\x86\Debug\LeafletCsharp.Form1.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\LeafletCsharp\obj\x86\Debug\LeafletCsharp.Properties.Resources.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\LeafletCsharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\LeafletCsharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\LeafletCsharp\obj\x86\Debug\LeafletCsharp.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\LeafletCsharp\obj\x86\Debug\LeafletCsharp.pdb
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.exe
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.pdb
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\bin\Debug\LeafletCsharp.exe
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\bin\Debug\LeafletCsharp.pdb
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.Form1.resources
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\obj\x86\Debug\Interop.MSHTML.dll
+C:\Documents and Settings\user\Desktop\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\bin\Debug\LeafletCsharp.exe
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\bin\Debug\LeafletCsharp.pdb
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\Interop.MSHTML.dll
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.Form1.resources
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.exe
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.pdb
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\bin\Debug\LeafletCsharp.exe.manifest
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\bin\Debug\LeafletCsharp.application
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.exe.manifest
+C:\Documents and Settings\user\Desktop\Paul\Code\LeafletCsharp\LeafletCsharp\obj\x86\Debug\LeafletCsharp.application

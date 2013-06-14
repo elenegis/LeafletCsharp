@@ -1,0 +1,54 @@
+<html>
+<head>
+	<title>ABQ ART: by Paul Crickard</title>
+	
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="apple-touch-icon" href="favicon.ico"/>
+	<link rel="stylesheet" href="dist/leaflet.css" />
+	
+ 
+	<style>
+		body {
+			padding: 0;
+			margin: 0;
+		}
+		html, body, #map {
+			height: 100%;
+		}
+	</style>	
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+</head>
+<body>
+
+ <div id="map"></div>
+
+<script src="dist/leaflet.js"></script>
+<script src="dist/bouncemarker.js"></script>
+<script>
+ 
+var map = L.map('map');
+ 
+ 
+L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', {
+    attribution: '<a href="http://paulcrickard.wordpress.com">Paul Crickard</a>. Data from <a href="http://cabq.gov">ABQ.GOV</a>',
+    maxZoom: 18
+}).addTo(map);
+
+ 
+ 
+var newmexico = new L.LatLng(35.104743, -106.629925);
+map.setView(newmexico, 8);
+
+L.marker([35.104743, -106.629925]).addTo(map)
+    .bindPopup('INFO <br> Here is some info on this point.');
+
+
+
+
+
+
+	</script>	
+ 
+</body>
+</html>
